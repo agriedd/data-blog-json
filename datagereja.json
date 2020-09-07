@@ -1,8 +1,24 @@
 {
     "data": [
         {
-            "judul": "Hello World!",
-            "badan": "Lorem ipsum..."
+            "judul": "Halaman Kelola Admin!",
+            "badan": "Halaman kelola admin dapat di akses menggunakan menu navigasi sebelah kiri, anda dapat menambah admin dengan role pegawai. \n Menu ini hanya dapat diakses oleh Super Admin, admin dengan role pegawai tidak dapat melihat atau mengunjungi menu ini."
+        },
+        {
+            "judul": "Perbaikan Error Export PDF!",
+            "badan": "Export pdf sudah diperbaiki"
+        },
+        {
+            "judul": "Pemberitahuan Input Foto Jemaat",
+            "badan": "Anda dapat menambahkan foto jemaat dengan mengklik ikon gambar pada sudut kanan form tambah / ubah jemaat."
+        },
+        {
+            "judul": "Pemberitahuan",
+            "badan": "Beberapa perbaikan yang terjadi pada belakang aplikasi yang tidak dapat dilihat namun berefek pada aplikasi."
+        },
+        {
+            "judul": "Pemberitahuan",
+            "badan": "Beberapa update akan segera datang..."
         }
     ]
 }
