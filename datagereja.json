@@ -4,6 +4,10 @@
             "judul": "Perbaikan Hak Akses Pegawai!",
             "badan": "Pegawai hanya dapat melihat dan tidak memiliki hak akses untuk menambah / mengubah data pada aplikasi"
         },
+	    {
+            "judul": "Jabatan Organisasi!",
+            "badan": "Penambahan Jabatan Organisasi, Wakil Ketua, Wakil Sekretaris, Bendahara dll"
+        },
         {
             "judul": "Halaman Kelola Admin!",
             "badan": "Halaman kelola admin dapat di akses menggunakan menu navigasi sebelah kiri, anda dapat menambah admin dengan role pegawai. \n Menu ini hanya dapat diakses oleh Super Admin, admin dengan role pegawai tidak dapat melihat atau mengunjungi menu ini."
@@ -26,11 +30,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.0.2"
+            "badan": "0.0.3"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-08T09:28:10+08:00"
+            "badan": "2020-09-08T15:22:08+08:00"
         }
     ]
 }
