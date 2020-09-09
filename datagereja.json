@@ -5,16 +5,20 @@
             "badan": "Pebaikan hak akses akun pegawai"
         },
         {
+            "judul": "Perbaikan Halaman Login!",
+            "badan": "Menambah tombol lihat password"
+        },
+        {
             "judul": "Pemberitahuan",
             "badan": "Beberapa update akan segera datang..."
         },
         {
             "judul": "Versi",
-            "badan": "0.0.4"
+            "badan": "0.1.0"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-10T00:39:04+08:00"
+            "badan": "2020-09-10T01:12:26+08:00"
         }
     ]
 }
