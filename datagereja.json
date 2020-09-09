@@ -2,27 +2,7 @@
     "data": [
         {
             "judul": "Perbaikan Hak Akses Pegawai!",
-            "badan": "Pegawai hanya dapat melihat dan tidak memiliki hak akses untuk menambah / mengubah data pada aplikasi"
-        },
-	    {
-            "judul": "Jabatan Organisasi!",
-            "badan": "Penambahan Jabatan Organisasi, Wakil Ketua, Wakil Sekretaris, Bendahara dll"
-        },
-        {
-            "judul": "Halaman Kelola Admin!",
-            "badan": "Halaman kelola admin dapat di akses menggunakan menu navigasi sebelah kiri, anda dapat menambah admin dengan role pegawai. \n Menu ini hanya dapat diakses oleh Super Admin, admin dengan role pegawai tidak dapat melihat atau mengunjungi menu ini."
-        },
-        {
-            "judul": "Perbaikan Error Export PDF!",
-            "badan": "Export pdf sudah diperbaiki"
-        },
-        {
-            "judul": "Pemberitahuan Input Foto Jemaat",
-            "badan": "Anda dapat menambahkan foto jemaat dengan mengklik ikon gambar pada sudut kanan form tambah / ubah jemaat."
-        },
-        {
-            "judul": "Pemberitahuan",
-            "badan": "Beberapa perbaikan yang terjadi pada belakang aplikasi yang tidak dapat dilihat namun berefek pada aplikasi."
+            "badan": "Pebaikan hak akses akun pegawai"
         },
         {
             "judul": "Pemberitahuan",
@@ -30,11 +10,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.0.3"
+            "badan": "0.0.4"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-08T15:22:08+08:00"
+            "badan": "2020-09-10T00:39:04+08:00"
         }
     ]
 }
