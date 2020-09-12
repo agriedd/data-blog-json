@@ -5,6 +5,10 @@
             "badan": "Menambah informasi jumlah jemaat pada halaman awal dan pengecekan nama jemaat"
         },
         {
+            "judul": "Update Hak Akses Pegawai!",
+            "badan": "Membatasi hak akes pegawai"
+        },
+        {
             "judul": "Pembaruan Halaman Awal!",
             "badan": "Mengubah tampilan awal dan tampilan login"
         },
@@ -14,11 +18,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.2.0"
+            "badan": "0.2.2"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-12T10:42:30+08:00"
+            "badan": "2020-09-12T14:48:31+08:00"
         }
     ]
 }
