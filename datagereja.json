@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "judul": "Perbaikan Hak Akses Pegawai!",
-            "badan": "Pebaikan hak akses akun pegawai"
+            "judul": "Penambahan Fitur!",
+            "badan": "Menambah informasi jumlah jemaat pada halaman awal dan pengecekan nama jemaat"
         },
         {
-            "judul": "Perbaikan Halaman Login!",
-            "badan": "Menambah tombol lihat password"
+            "judul": "Pembaruan Halaman Awal!",
+            "badan": "Mengubah tampilan awal dan tampilan login"
         },
         {
             "judul": "Pemberitahuan",
@@ -14,11 +14,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.1.0"
+            "badan": "0.2.0"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-10T01:12:26+08:00"
+            "badan": "2020-09-12T10:42:30+08:00"
         }
     ]
 }
