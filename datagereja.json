@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "judul": "Perbaikan Input Alamat 'undefined & null'",
+            "badan": "Jika kolom alamat dibiarkan kosong maka alamat akan diisi dengan teks undefined dan null"
+        },
+        {
             "judul": "Perubahan Input Alamat Lengkap Jemaat!",
             "badan": "Alamat Jemaat Akan Terdiri dari Nama Jalan, RT, RW, Kelurahan, Kecamatan, Kota, dan Provinsi"
         },
@@ -22,11 +26,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.2.3"
+            "badan": "0.2.5"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-12T15:48:02+08:00"
+            "badan": "2020-09-13T14:43:26+08:00"
         }
     ]
 }
