@@ -1,8 +1,12 @@
 {
     "data": [
         {
-            "judul": "Perbaikan Input Alamat 'undefined & null'",
-            "badan": "Jika kolom alamat dibiarkan kosong maka alamat akan diisi dengan teks undefined dan null"
+            "judul": "Perbaikan Export Ulang Tahun Excel",
+            "badan": "Mengubah format export excel sesuai dengan template pdf"
+        },
+        {
+            "judul": "Perubahan",
+            "badan": "Beberapa perubahan tidak terlihat"
         },
         {
             "judul": "Perubahan Input Alamat Lengkap Jemaat!",
@@ -26,11 +30,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.2.5"
+            "badan": "0.2.7"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-13T14:43:26+08:00"
+            "badan": "2020-09-14T21:39:48+08:00"
         }
     ]
 }
