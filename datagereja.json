@@ -1,36 +1,12 @@
 {
     "data": [
         {
-            "judul": "Perubahan Halaman Awal",
-            "badan": "Mengubah warna latar halaman awal"
+            "judul": "Import Data Jemaat sebagai Pegawai",
+            "badan": "Perubahan form jemaat dan penambahan input `Import` data jemaat sebagai pegawai"
         },
         {
-            "judul": "Perubahan Halaman Login",
-            "badan": "Mengubah tampilan halaman login"
-        },
-        {
-            "judul": "Perbaikan Export Ulang Tahun Excel",
-            "badan": "Mengubah format export excel sesuai dengan template pdf"
-        },
-        {
-            "judul": "Perubahan",
-            "badan": "Beberapa perubahan tidak terlihat"
-        },
-        {
-            "judul": "Perubahan Input Alamat Lengkap Jemaat!",
-            "badan": "Alamat Jemaat Akan Terdiri dari Nama Jalan, RT, RW, Kelurahan, Kecamatan, Kota, dan Provinsi"
-        },
-        {
-            "judul": "Penambahan Fitur!",
-            "badan": "Menambah informasi jumlah jemaat pada halaman awal dan pengecekan nama jemaat"
-        },
-        {
-            "judul": "Update Hak Akses Pegawai!",
-            "badan": "Membatasi hak akes pegawai"
-        },
-        {
-            "judul": "Pembaruan Halaman Awal!",
-            "badan": "Mengubah tampilan awal dan tampilan login"
+            "judul": "Improve Performa Website Admin",
+            "badan": "Perubahan mungkin tidak terlihat"
         },
         {
             "judul": "Pemberitahuan",
@@ -38,11 +14,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.2.10"
+            "badan": "0.3.0"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-14T22:35:49+08:00"
+            "badan": "2020-09-19T22:24:32+08:00"
         }
     ]
 }
