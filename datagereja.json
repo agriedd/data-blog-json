@@ -9,16 +9,20 @@
             "badan": "Perubahan mungkin tidak terlihat"
         },
         {
+            "judul": "Improve Halaman Awal",
+            "badan": "Perubahan tampilan halaman awal"
+        },
+        {
             "judul": "Pemberitahuan",
             "badan": "Beberapa update akan segera datang..."
         },
         {
             "judul": "Versi",
-            "badan": "0.3.0"
+            "badan": "0.3.2"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-19T22:24:32+08:00"
+            "badan": "2020-09-23T09:20:57+08:00"
         }
     ]
 }
