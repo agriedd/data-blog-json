@@ -1,16 +1,16 @@
 {
     "data": [
         {
-            "judul": "Import Data Jemaat sebagai Pegawai",
-            "badan": "Perubahan form jemaat dan penambahan input `Import` data jemaat sebagai pegawai"
+            "judul": "Menambah Tugas Pegawai",
+            "badan": "Input Tugas Pegawai, tugas dapat dipilih lebih dari 1 tugas"
         },
         {
             "judul": "Improve Performa Website Admin",
             "badan": "Perubahan mungkin tidak terlihat"
         },
         {
-            "judul": "Improve Halaman Awal",
-            "badan": "Perubahan tampilan halaman awal"
+            "judul": "Penambahan Navigasi",
+            "badan": "Penambahan Menu Navigasi Sebelah Kanan, untuk menyimpan beberapa halaman"
         },
         {
             "judul": "Pemberitahuan",
@@ -18,11 +18,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.3.2"
+            "badan": "0.4.0"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-23T09:20:57+08:00"
+            "badan": "2020-09-27T14:47:12+08:00"
         }
     ]
 }
