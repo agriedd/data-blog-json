@@ -13,16 +13,20 @@
             "badan": "Penambahan Menu Navigasi Sebelah Kanan, untuk menyimpan beberapa halaman"
         },
         {
+            "judul": "Penambahan Paginasi",
+            "badan": "Perbaikan jumlah data per halaman yang akan tampil semua halaman"
+        },
+        {
             "judul": "Pemberitahuan",
             "badan": "Beberapa update akan segera datang..."
         },
         {
             "judul": "Versi",
-            "badan": "0.4.0"
+            "badan": "0.4.2"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-09-27T14:47:12+08:00"
+            "badan": "2020-10-01T22:09:53+08:00"
         }
     ]
 }
