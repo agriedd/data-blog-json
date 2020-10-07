@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "judul": "Perbaikan Data Table Jemaat",
+            "badan": "Improvement data table jemaat beserta filternya"
+        },
+        {
+            "judul": "Perbaikan Input Jemaat dan KK",
+            "badan": "Alamat input otomatis mengikuti kepala keluarga, dan kepala keluarga dapat menambah foto"
+        },
+        {
             "judul": "Menambah Tanggal Pengadaan Inventaris",
             "badan": "Menambah input Tanggal Pengadaan barang inventaris (bersifat opsional) pada bagian form informasi spesifikasi barang"
         },
@@ -9,20 +17,8 @@
             "badan": "Menambah inventaris barang"
         },
         {
-            "judul": "Menambah Tugas Pegawai",
-            "badan": "Input Tugas Pegawai, tugas dapat dipilih lebih dari 1 tugas"
-        },
-        {
             "judul": "Improve Performa Website Admin",
             "badan": "Perubahan mungkin tidak terlihat"
-        },
-        {
-            "judul": "Penambahan Navigasi",
-            "badan": "Penambahan Menu Navigasi Sebelah Kanan, untuk menyimpan beberapa halaman"
-        },
-        {
-            "judul": "Penambahan Paginasi",
-            "badan": "Perbaikan jumlah data per halaman yang akan tampil semua halaman"
         },
         {
             "judul": "Pemberitahuan",
@@ -30,11 +26,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.5.1"
+            "badan": "0.5.2"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-10-06T08:41:54+08:00"
+            "badan": "2020-10-07T19:38:02+08:00"
         }
     ]
 }
