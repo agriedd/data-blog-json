@@ -1,8 +1,24 @@
 {
     "data": [
         {
-            "judul": "Perbaikan Data Table Jemaat",
-            "badan": "Improvement data table jemaat beserta filternya"
+            "judul": "Menambah Pindah Rayon dan Pindah KK Jemaat",
+            "badan": "Gunakan menu 'Pindah' pada aksi jemaat untuk mengubah rayon dan kepala keluarga agar perpindahan dapat tercatat pada sistem"
+        },
+        {
+            "judul": "Improvement informasi jemaat",
+            "badan": "Improve informasi jemaat, dengan menambahkan riwayat dan mengubah tampilannya"
+        },
+        {
+            "judul": "Optimalisasi query database",
+            "badan": "Perubahan tidak terlihat"
+        },
+        {
+            "judul": "Golongan Darah Opsional",
+            "badan": "Golongan darah opsional pada tambah dan ubah jemaat"
+        },
+        {
+            "judul": "----------------------",
+            "badan": "***"
         },
         {
             "judul": "Perbaikan Input Jemaat dan KK",
@@ -26,11 +42,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.5.2"
+            "badan": "0.5.4"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-10-07T19:38:02+08:00"
+            "badan": "2020-10-12T06:47:11+08:00"
         }
     ]
 }
