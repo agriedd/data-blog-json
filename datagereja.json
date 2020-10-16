@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "judul": "Sinkron Data KK Jemaat",
+            "badan": "Aksi Sinkron Untuk Mengubah/Mencocokan semua data alamat dan rayon jemaat pada KK yang sama"
+        },
+        {
+            "judul": "----------------------",
+            "badan": "***"
+        },
+        {
             "judul": "Menambah Pindah Rayon dan Pindah KK Jemaat",
             "badan": "Gunakan menu 'Pindah' pada aksi jemaat untuk mengubah rayon dan kepala keluarga agar perpindahan dapat tercatat pada sistem"
         },
@@ -17,22 +25,6 @@
             "badan": "Golongan darah opsional pada tambah dan ubah jemaat"
         },
         {
-            "judul": "----------------------",
-            "badan": "***"
-        },
-        {
-            "judul": "Perbaikan Input Jemaat dan KK",
-            "badan": "Alamat input otomatis mengikuti kepala keluarga, dan kepala keluarga dapat menambah foto"
-        },
-        {
-            "judul": "Menambah Tanggal Pengadaan Inventaris",
-            "badan": "Menambah input Tanggal Pengadaan barang inventaris (bersifat opsional) pada bagian form informasi spesifikasi barang"
-        },
-        {
-            "judul": "Menambah Inventaris",
-            "badan": "Menambah inventaris barang"
-        },
-        {
             "judul": "Improve Performa Website Admin",
             "badan": "Perubahan mungkin tidak terlihat"
         },
@@ -42,11 +34,11 @@
         },
         {
             "judul": "Versi",
-            "badan": "0.5.4"
+            "badan": "0.5.5"
         },
         {
             "judul": "Tanggal Rilis",
-            "badan": "2020-10-12T06:47:11+08:00"
+            "badan": "2020-10-16T12:52:27+08:00"
         }
     ]
 }
